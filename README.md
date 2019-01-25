@@ -1,1 +1,1 @@
-# jcstress
+Run it with `java -jar target/jcstress.jar -v`
